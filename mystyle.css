@@ -1,0 +1,22 @@
+#main {
+    text-align: center;
+    width: 50%;
+    background-color: #9CBC2B;
+    border-radius: 10px;
+}
+
+div {
+    border: 1px solid white;
+    background-color: #B9CF6A;
+    padding: 9px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #394311;
+    color: white;
+}
+
+h2 {
+    color: #394311;
+}
